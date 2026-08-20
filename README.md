@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
-<h3 align="center">Software Engineer • C++ • Full Stack • Machine Learning</h3>
+<h3 align="center">Software Engineering Student  • C++ • Full Stack • Machine Learning</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Ayush-Singh0583">
