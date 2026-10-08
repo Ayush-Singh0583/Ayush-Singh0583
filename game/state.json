@@ -1,22 +1,22 @@
 {
   "board": [
     "X",
-    "",
+    "O",
     "",
     "",
     "O",
     "",
     "",
     "",
-    ""
+    "X"
   ],
   "status": "playing",
   "winning_line": [],
   "last_move": {
     "user": "Ayush-Singh0583",
-    "cell": 0,
-    "bot": 4,
-    "issue": 1
+    "cell": 8,
+    "bot": 1,
+    "issue": 2
   },
   "stats": {
     "games": 0,
@@ -25,6 +25,12 @@
     "human_wins": 0
   },
   "recent": [
+    {
+      "user": "Ayush-Singh0583",
+      "cell": 8,
+      "bot": 1,
+      "issue": 2
+    },
     {
       "user": "Ayush-Singh0583",
       "cell": 0,
