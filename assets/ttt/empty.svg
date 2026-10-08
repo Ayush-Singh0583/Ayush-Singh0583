@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" role="img" aria-label="Empty square">
+<style>
+.plus { animation: breathe 2.4s ease-in-out infinite; }
+@keyframes breathe { 0%, 100% { opacity: .35; } 50% { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="2" y="2" width="76" height="76" rx="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+<path class="plus" d="M40 31 V49 M31 40 H49" stroke="#6e7681" stroke-width="3" stroke-linecap="round" fill="none"/>
+</svg>
