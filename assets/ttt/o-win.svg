@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" role="img" aria-label="O, part of the winning line">
+<style>
+.p { fill: none; stroke-width: 9; stroke-linecap: round; }
+.c { stroke-dasharray: 95 120; animation: drawo .5s ease-out .05s both; }
+@keyframes drawo { from { stroke-dashoffset: 101; } to { stroke-dashoffset: 0; } }
+.g { animation: pulse 1.6s ease-in-out .6s infinite; }
+@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="2" y="2" width="76" height="76" rx="14" fill="#11304d" stroke="#79c0ff" stroke-width="2"/>
+<rect class="g" x="2" y="2" width="76" height="76" rx="14" fill="none" stroke="#79c0ff" stroke-width="3"/>
+<circle class="p c" cx="40" cy="40" r="15" stroke="#79c0ff" transform="rotate(-90 40 40)"/>
+</svg>
