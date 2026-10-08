@@ -1,0 +1,8 @@
+{
+  "board": ["", "", "", "", "", "", "", "", ""],
+  "status": "playing",
+  "winning_line": [],
+  "last_move": null,
+  "stats": {"games": 0, "bot_wins": 0, "draws": 0, "human_wins": 0},
+  "recent": []
+}
