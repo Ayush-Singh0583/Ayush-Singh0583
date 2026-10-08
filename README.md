@@ -1,116 +1,84 @@
-<h1 align="center">Hi 👋, I'm Ayush Singh</h1>
-<h3 align="center">Software Engineering Student  • C++ • Full Stack • Machine Learning</h3>
+<h1 align="center">Hi, I'm Ayush Singh 👋</h1>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Ayush-Singh0583">
-    <img src="https://komarev.com/ghpvc/?username=Ayush-Singh0583&label=Profile%20Views&color=6366f1&style=for-the-badge" />
-  </a>
+  <a href="https://www.linkedin.com/in/ayush-singh-47b446298"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/ayush_learning"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Information+Science+Engineering+Student;C%2B%2B+%7C+DSA+%7C+Backend+Developer;React+%7C+Node.js+%7C+FastAPI;Always+Learning+Always+Building" />
+  <img src="https://raw.githubusercontent.com/Ayush-Singh0583/Ayush-Singh0583/main/assets/terminal.svg" width="760" alt="Terminal intro. whoami: Ayush Singh, Information Science student at RVITM, Bengaluru (2027). Stack: Java, Spring Boot, PostgreSQL, Python, scikit-learn, C++, React. Now: building secure backend APIs and ML for network security, and open to software engineering internships." />
 </p>
 
----
+## About me
 
-## 🚀 About Me
+I'm a final-year Information Science & Engineering student at RV Institute of Technology and Management, Bengaluru, graduating in 2027. I build backend systems and machine learning projects, and I practise problem solving in C++.
 
-- 🎓 Information Science Engineering Student (2027)
-- 💻 Strong in **C++, Data Structures & Algorithms**
-- 🌐 Full Stack Developer using **React, Node.js & PostgreSQL**
-- 🤖 Exploring **Machine Learning** and Backend Systems
-- 🎯 Preparing for Software Engineering roles
+- ⚙️ **Backend:** Java, Spring Boot, PostgreSQL and REST APIs
+- 🤖 **Machine learning:** scikit-learn and XGBoost, used for network intrusion detection
+- 🧩 **Problem solving:** C++, data structures and algorithms
+- 🌱 **Currently learning:** Spring Boot and dynamic programming
+- 🎯 **Open to:** software engineering internships
 
----
+## Tech stack
 
-## 🛠️ Tech Stack
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,ts,html,css" alt="C++, C, Java, Python, JavaScript, TypeScript, HTML, CSS" />
 
-### Languages
+**Frameworks & libraries**<br/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,react,tailwind,sklearn" alt="Spring Boot, Node.js, Express, FastAPI, React, Tailwind CSS, scikit-learn" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts" />
-</p>
+**Databases & tools**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,docker,linux,postman,vscode,figma" alt="PostgreSQL, MySQL, MongoDB, Git, Docker, Linux, Postman, VS Code, Figma" />
 
-### Frontend
+## Featured projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma" />
-</p>
+- 🏦 **Secure Banking Transaction API**: Spring Boot API for money transfers, with JWT auth, a double-entry ledger, and row locks taken in a fixed order to prevent deadlocks.
+- 🛡️ **[ML Network Intrusion Detection](https://github.com/Ayush-Singh0583/ML-Network-Intrusion-Detection-System)**: captures live network traffic, classifies each flow with ML models trained on CIC-IDS2017, and shows alerts on a React dashboard.
+- 🗳️ **[VoteChain](https://github.com/Siddu-06-0405/evoting-system)**: team blockchain e-voting system. My part is face authentication for voters and zero-knowledge proofs.
+- ⏱️ **[Focus](https://github.com/Ayush-Singh0583/Focus)**: productivity app with tasks, time tracking and analytics, built with React, Node.js and MongoDB.
+- 📰 **Tech News Chatbot**: AI news chatbot with article summarization and image caching, built with React, FastAPI and the OpenAI API.
+- 🌐 **VoIP Network Simulation**: VoIP calls over a WAN with routing and DHCP, built in Cisco Packet Tracer.
+- 📚 **LeetCode Practice Manager**: a personal tracker for solved problems, notes and interview prep.
 
-### Backend & Database
+See everything else in my [repositories](https://github.com/Ayush-Singh0583?tab=repositories).
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,fastapi" />
-</p>
+## 🎮 Play tic-tac-toe against my bot
 
-### Tools
+<!-- TTT:START -->
+<div align="center">
+<p><b>Your move!</b> You're ❌. Click any square to start a game against my bot.</p>
+<table align="center">
+<tr><td><a href="https://github.com/Ayush-Singh0583/Ayush-Singh0583/issues/new?title=ttt%7Cmove%7C1&amp;body=Just%20submit%20this%20issue%20without%20changing%20the%20title.%0A%0AA%20GitHub%20Action%20will%20play%20your%20move%2C%20the%20bot%20will%20answer%2C%20and%20the%20board%20on%20the%20profile%20will%20update%20in%20about%20a%20minute."><img src="https://raw.githubusercontent.com/Ayush-Singh0583/Ayush-Singh0583/main/assets/ttt/empty.svg" width="72" height="72" alt="Play square 1"></a></td><td><a href="https://github.com/Ayush-Singh0583/Ayush-Singh0583/issues/new?title=ttt%7Cmove%7C2&amp;body=Just%20submit%20this%20issue%20without%20changing%20the%20title.%0A%0AA%20GitHub%20Action%20will%20play%20your%20move%2C%20the%20bot%20will%20answer%2C%20and%20the%20board%20on%20the%20profile%20will%20update%20in%20about%20a%20minute."><img src="https://raw.githubusercontent.com/Ayush-Singh0583/Ayush-Singh0583/main/assets/ttt/empty.svg" width="72" height="72" alt="Play square 2"></a></td><td><a href="https://github.com/Ayush-Singh0583/Ayush-Singh0583/issues/new?title=ttt%7Cmove%7C3&amp;body=Just%20submit%20this%20issue%20without%20changing%20the%20title.%0A%0AA%20GitHub%20Action%20will%20play%20your%20move%2C%20the%20bot%20will%20answer%2C%20and%20the%20board%20on%20the%20profile%20will%20update%20in%20about%20a%20minute."><img src="https://raw.githubusercontent.com/Ayush-Singh0583/Ayush-Singh0583/main/assets/ttt/empty.svg" width="72" height="72" alt="Play square 3"></a></td></tr>
+<tr><td><a href="https://github.com/Ayush-Singh0583/Ayush-Singh0583/issues/new?title=ttt%7Cmove%7C4&amp;body=Just%20submit%20this%20issue%20without%20changing%20the%20title.%0A%0AA%20GitHub%20Action%20will%20play%20your%20move%2C%20the%20bot%20will%20answer%2C%20and%20the%20board%20on%20the%20profile%20will%20update%20in%20about%20a%20minute."><img src="https://raw.githubusercontent.com/Ayush-Singh0583/Ayush-Singh0583/main/assets/ttt/empty.svg" width="72" height="72" alt="Play square 4"></a></td><td><a href="https://github.com/Ayush-Singh0583/Ayush-Singh0583/issues/new?title=ttt%7Cmove%7C5&amp;body=Just%20submit%20this%20issue%20without%20changing%20the%20title.%0A%0AA%20GitHub%20Action%20will%20play%20your%20move%2C%20the%20bot%20will%20answer%2C%20and%20the%20board%20on%20the%20profile%20will%20update%20in%20about%20a%20minute."><img src="https://raw.githubusercontent.com/Ayush-Singh0583/Ayush-Singh0583/main/assets/ttt/empty.svg" width="72" height="72" alt="Play square 5"></a></td><td><a href="https://github.com/Ayush-Singh0583/Ayush-Singh0583/issues/new?title=ttt%7Cmove%7C6&amp;body=Just%20submit%20this%20issue%20without%20changing%20the%20title.%0A%0AA%20GitHub%20Action%20will%20play%20your%20move%2C%20the%20bot%20will%20answer%2C%20and%20the%20board%20on%20the%20profile%20will%20update%20in%20about%20a%20minute."><img src="https://raw.githubusercontent.com/Ayush-Singh0583/Ayush-Singh0583/main/assets/ttt/empty.svg" width="72" height="72" alt="Play square 6"></a></td></tr>
+<tr><td><a href="https://github.com/Ayush-Singh0583/Ayush-Singh0583/issues/new?title=ttt%7Cmove%7C7&amp;body=Just%20submit%20this%20issue%20without%20changing%20the%20title.%0A%0AA%20GitHub%20Action%20will%20play%20your%20move%2C%20the%20bot%20will%20answer%2C%20and%20the%20board%20on%20the%20profile%20will%20update%20in%20about%20a%20minute."><img src="https://raw.githubusercontent.com/Ayush-Singh0583/Ayush-Singh0583/main/assets/ttt/empty.svg" width="72" height="72" alt="Play square 7"></a></td><td><a href="https://github.com/Ayush-Singh0583/Ayush-Singh0583/issues/new?title=ttt%7Cmove%7C8&amp;body=Just%20submit%20this%20issue%20without%20changing%20the%20title.%0A%0AA%20GitHub%20Action%20will%20play%20your%20move%2C%20the%20bot%20will%20answer%2C%20and%20the%20board%20on%20the%20profile%20will%20update%20in%20about%20a%20minute."><img src="https://raw.githubusercontent.com/Ayush-Singh0583/Ayush-Singh0583/main/assets/ttt/empty.svg" width="72" height="72" alt="Play square 8"></a></td><td><a href="https://github.com/Ayush-Singh0583/Ayush-Singh0583/issues/new?title=ttt%7Cmove%7C9&amp;body=Just%20submit%20this%20issue%20without%20changing%20the%20title.%0A%0AA%20GitHub%20Action%20will%20play%20your%20move%2C%20the%20bot%20will%20answer%2C%20and%20the%20board%20on%20the%20profile%20will%20update%20in%20about%20a%20minute."><img src="https://raw.githubusercontent.com/Ayush-Singh0583/Ayush-Singh0583/main/assets/ttt/empty.svg" width="72" height="72" alt="Play square 9"></a></td></tr>
+</table>
+<p><sub>Games played: 0 · Bot wins: 0 · Draws: 0 · Human wins: 0</sub></p>
+</div>
+<!-- TTT:END -->
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,vscode" />
-</p>
+<details>
+<summary><b>How does this work?</b></summary>
+<br>
 
----
+GitHub READMEs can't run code, so this game runs on GitHub Actions:
 
-## 📌 Featured Projects
+1. Clicking a square opens a new issue with your move in its title, like `ttt|move|5`. Just submit it as it is.
+2. A [GitHub Action](https://github.com/Ayush-Singh0583/Ayush-Singh0583/blob/main/.github/workflows/tictactoe.yml) runs [`game/tictactoe.py`](https://github.com/Ayush-Singh0583/Ayush-Singh0583/blob/main/game/tictactoe.py), which plays your move.
+3. The bot answers using **minimax**: it looks ahead through every possible game from the current board and picks a move that can never lose.
+4. The script redraws this board, commits the README, replies on your issue and closes it. Refresh after about a minute to see the bot's move.
 
-### 📰 Tech News Chatbot
-AI-powered news chatbot built with **React + FastAPI + OpenAI API** featuring article summarization and image caching.
+</details>
 
-### 🛡️ Network Intrusion Detection
-Machine Learning model trained on network traffic using **Python, Scikit-Learn, Pandas & NumPy**.
-
-### 🌐 VoIP Network Simulation
-Cisco Packet Tracer project implementing **VoIP communication over WAN** with routing and DHCP.
-
-### 📚 LeetCode Practice Manager
-A personal coding tracker to manage solved problems, notes, and interview preparation.
-
----
-
-## 📊 GitHub Analytics
+<br>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayush-Singh0583&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Singh0583&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayush-Singh0583&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-Singh0583&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush-Singh0583/Ayush-Singh0583/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush-Singh0583/Ayush-Singh0583/output/github-snake.svg" />
+    <img alt="A snake eating the squares of my GitHub contribution graph" src="https://raw.githubusercontent.com/Ayush-Singh0583/Ayush-Singh0583/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Singh0583&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌍 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayush-singh-47b446298" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/ayush_learning" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="45" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>⭐ Always learning. Always building.</i>
-</p>
-#AnDeTLzv
+<p align="center"><i>Always learning. Always building.</i></p>
