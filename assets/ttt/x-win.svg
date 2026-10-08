@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" role="img" aria-label="X, part of the winning line">
+<style>
+.p { fill: none; stroke-width: 9; stroke-linecap: round; }
+.a, .b { stroke-dasharray: 40 60; }
+.a { animation: drawx .28s ease-out .05s both; }
+.b { animation: drawx .28s ease-out .3s both; }
+@keyframes drawx { from { stroke-dashoffset: 46; } to { stroke-dashoffset: 0; } }
+.g { animation: pulse 1.6s ease-in-out .6s infinite; }
+@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="2" y="2" width="76" height="76" rx="14" fill="#3d1d20" stroke="#ff7b72" stroke-width="2"/>
+<rect class="g" x="2" y="2" width="76" height="76" rx="14" fill="none" stroke="#ff7b72" stroke-width="3"/>
+<path class="p a" d="M27 27 L53 53" stroke="#ff7b72"/>
+<path class="p b" d="M53 27 L27 53" stroke="#ff7b72"/>
+</svg>
